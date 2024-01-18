@@ -31,6 +31,7 @@ sudo ./setup.sh
   - strace
   - xxd
   - gdb
+  - jq
     
 - 安裝滲透測試工具
   - Crowbar (暴力破解)

@@ -31,6 +31,7 @@ sudo ./setup.sh
   - strace
   - xxd
   - gdb
+  - jq
     
 - Install Penetration Testing Tools
   - Crowbar (Brute Force)

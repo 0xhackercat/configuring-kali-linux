@@ -22,7 +22,7 @@ sudo newgrp docker
 sudo apt-get install -y golang-go
 
 # 安裝 system tools
-sudo apt-get install -y terminator htop atop strace xxd gdb jq
+sudo apt-get install -y terminator htop atop strace xxd gdb jq sshuttle
 
 # 安裝 pentest tools
 sudo apt-get install -y crowbar httperf subfinder sublist3r gobuster
